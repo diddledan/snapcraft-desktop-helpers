@@ -16,6 +16,7 @@
                 "command-chain"+: [
                     "bin/desktop-launch",
                 ],
+                adapter: "full",
             }
         ),
 
